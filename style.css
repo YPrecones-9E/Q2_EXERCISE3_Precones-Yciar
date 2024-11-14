@@ -2,12 +2,18 @@ body{
 	background-color: #fff0f0;
 	color: #7f323c;
 	font-family: Georgia;
+}
 
 .container{
 	background: rgb(246,197,196);
 	background: linear-gradient(90deg, rgba(246,197,196,1) 0%, rgba(255,224,222,1) 50%, rgba(246,197,196,1) 100%);
 	border: 2px solid #ffe0de;
 }
+
+a{
+	color: #7f323c;
+}
+	
 
 h1{
 	font-family: Satisfy;
